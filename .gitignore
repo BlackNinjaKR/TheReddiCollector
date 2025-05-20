@@ -1,0 +1,42 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# MySQL dump files or temp data (optional)
+*.sql
+*.dump
+
+# Secrets
+secrets.json
+
+# Log files
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest and other test caches
+.pytest_cache/
+.cache/
+
+# Jupyter Notebook checkpoints (if you add any notebooks)
+.ipynb_checkpoints/
+
+# Packaging
+*.egg-info/
+dist/
+build/
